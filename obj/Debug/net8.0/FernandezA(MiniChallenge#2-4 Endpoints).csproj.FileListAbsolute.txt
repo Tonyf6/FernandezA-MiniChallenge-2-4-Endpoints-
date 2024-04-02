@@ -1,0 +1,33 @@
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/appsettings.Development.json
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/appsettings.json
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints)
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).deps.json
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).runtimeconfig.json
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).dll
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).pdb
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).csproj.AssemblyReference.cache
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).GeneratedMSBuildEditorConfig.editorconfig
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).AssemblyInfoInputs.cache
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).AssemblyInfo.cs
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).csproj.CoreCompileInputs.cache
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).MvcApplicationPartsAssemblyInfo.cs
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).MvcApplicationPartsAssemblyInfo.cache
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/staticwebassets/msbuild.FernandezA(MiniChallenge#2-4 Endpoints).Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/staticwebassets/msbuild.build.FernandezA(MiniChallenge#2-4 Endpoints).props
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FernandezA(MiniChallenge#2-4 Endpoints).props
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FernandezA(MiniChallenge#2-4 Endpoints).props
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/scopedcss/bundle/FernandezA(MiniChallenge#2-4 Endpoints).styles.css
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/Fernande.732933E2.Up2Date
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).dll
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/refint/FernandezA(MiniChallenge#2-4 Endpoints).dll
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).pdb
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/FernandezA(MiniChallenge#2-4 Endpoints).genruntimeconfig.cache
+/Users/tone_ayeee/FernandezA(MiniChallenge#2-4 Endpoints)/obj/Debug/net8.0/ref/FernandezA(MiniChallenge#2-4 Endpoints).dll
